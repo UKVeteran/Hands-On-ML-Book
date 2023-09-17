@@ -1,1 +1,3 @@
-# Hands-On-ML-Book-
+# Hands-On-ML-Book
+
+By Aurelien Geron
